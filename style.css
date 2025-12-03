@@ -47,7 +47,7 @@ header h1 i {
 
 /* === Hero === */
 .hero {
-    background-image: url('images/hero.jpg');
+    background-image: url('hero.jpg');
     background-size: cover;
     background-position: center;
     height: 60vh;
@@ -197,3 +197,4 @@ footer {
     .about-section { flex-direction: column; text-align: center; }
     header { padding: 25px 10px; }
 }
+
